@@ -1,5 +1,5 @@
 # wodb
-A demonstration of using Beautiful Soup to download images from Mary Bourassa's 'Which One Doesn't Belong' site.
+A demonstration of using Beautiful Soup to download images from Mary Bourassa's 'Which One Doesn't Belong' site at http://wodb.ca .
 
 
 Instructions for getting started:
